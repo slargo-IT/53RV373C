@@ -18,4 +18,5 @@ This program is made to reproduce and Industrial Internet Of Thing Telemetry Uni
 - UART
 - Watchdog circuitry in C 
 
-More infos : slargo-it.github.io / slargo.it@gmail.com
+More infos : https://slargo-it.github.io/
+Mail to :    slargo.it@gmail.com
